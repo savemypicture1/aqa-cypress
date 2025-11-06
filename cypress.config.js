@@ -6,6 +6,8 @@ module.exports = defineConfig({
       return config;
     },
 
+    baseUrl: "https://qauto.forstudy.space",
+    supportFile: "cypress/support/e2e.js",
     viewportWidth: 1920,
     viewportHeight: 1080,
     defaultCommandTimeout: 10000,
