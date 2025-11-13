@@ -1,1 +1,7 @@
+.DS_Store
 node_modules/
+mochawesome-report/
+cypress/videos/
+cypress/screenshots/
+cypress/results/
+mochawesome.json
