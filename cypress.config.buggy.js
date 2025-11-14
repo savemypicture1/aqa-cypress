@@ -14,7 +14,7 @@ module.exports = defineConfig({
       return config;
     },
 
-    baseUrl: "https://qauto.forstudy.space",
+    baseUrl: "https://qauto2.forstudy.space",
     supportFile: "cypress/support/e2e.js",
     viewportWidth: 1920,
     viewportHeight: 1080,
